@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = omar.asghar@yahoo.com
+	name = Umer Asghar
